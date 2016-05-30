@@ -1,5 +1,5 @@
 # Alphabetical Numericals
-* aon - one, broken down a on' <- a on(e) <- a one. Pronounced ay uhn.
+* aon - one, broken down a on' <- a on(e) <- a one. Pronounced ay ohn.
 * btw - two, pronounced bee twuh.
 * cth - three, pronounced cee thuh.
 * dfo - four, pronounced dee foh.
