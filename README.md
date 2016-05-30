@@ -4,7 +4,7 @@
 * cth - three, pronounced cee thuh.
 * dfo - four, pronounced dee foh.
 * efi - five, pronounced ee fiy.
-* fsi - six, pronounced ef see.
+* fsi - six, pronounced ef siy.
 * gse - seven, pronounced gee suh.
 * hei - eight, pronounced hey iy.
 * ini - nine, pronounced iy niy.
