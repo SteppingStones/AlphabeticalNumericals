@@ -9,7 +9,7 @@
 * hei - eight, pronounced hey iy.
 * ini - nine, pronounced iy niy.
 * @ze - zero, or UTF-8 character 0040 before all alphabet characters. Pronounced at zuh.
-* jde - Latin decem for ten. Ten means the second column so all bases use it. Pronounced jay duh.
+* jde - Latin decem for ten. Ten, unusable in this case, means the second column so all bases use it. Pronounced jay duh.
 * k
 * l
 * m
